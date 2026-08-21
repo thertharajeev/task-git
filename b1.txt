@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 modified
+=======
+modified b1
+>>>>>>> first
